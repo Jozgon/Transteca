@@ -1,0 +1,32 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&w=1000&q=80');
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu {
+  background-color: magenta; 
+} 
+
+.menu li {
+  list-style: none;
+}
+.menu ul { display: flex;
+justify-content: space-around}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a: hover {underline; 
+  }
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+.site-subtitle {
+  Font-style: italic;
+}
+
