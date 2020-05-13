@@ -1,5 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box 
+}
+
+
+
 body {
-  background-image: url('https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&w=1000&q=80');
+  background-image: url('https://25.media.tumblr.com/tumblr_m8m5x46qjM1qdc388o1_500.gif');
   background-size: auto 100vh;
   font-family: Arial;
   height: 100vh;
